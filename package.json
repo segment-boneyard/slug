@@ -1,0 +1,19 @@
+{
+  "name": "isodate",
+  "repository": "git://github.com/segmentio/isodate.git",
+  "version": "0.0.1",
+  "license": "MIT",
+  "description": "The slugging function we use for Segment.io projects, usernames, etc.",
+  "keywords": [
+    "slug",
+    "username",
+    "login"
+  ],
+  "dependencies": {
+    "slug-component": "~1.1.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.15.1",
+    "component": "~0.18.0"
+  }
+}

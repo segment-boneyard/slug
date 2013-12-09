@@ -1,0 +1,12 @@
+{
+  "name": "slug",
+  "repo": "segmentio/slug",
+  "license": "MIT",
+  "version": "0.0.1",
+  "description": "The slugging function we use for Segment.io projects, usernames, etc.",
+  "keywords": ["slug", "username", "login"],
+  "dependencies": {
+    "yields/slug": "*"
+  },
+  "scripts": ["index.js"]
+}
